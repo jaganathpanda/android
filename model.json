@@ -1,0 +1,25 @@
+{
+   "allModels":{
+      "kicks":{
+         "price":53191,
+         "code":"NZE1HLEAF2EVHP12020-04-01",
+         "grade":"28225-kicks",
+         "version":"CON1",
+         "image":"https://www-asia.nissan-cdn.net/content/dam/Nissan/in/vehicles/Kicks/newnissankicks/hp/Kicks-side-angle-(400x213).jpg.ximg.l_4_m.smart.jpg"
+      },
+      "magnite":{
+         "price":53192,
+         "code":"NZE1HLEAF2EVHP12020-04-02",
+         "grade":"28855-magnit",
+         "version":"CON1",
+         "image":"https://www-asia.nissan-cdn.net/content/dam/Nissan/in/vehicles/Kicks/newnissankicks/hp/GT-R_400x213.jpg.ximg.l_4_m.smart.jpg"
+      },
+      "gtr":{
+         "price":53193,
+         "code":"NZE1HLEAF2EVHP12020-04-03",
+         "grade":"28855-LEAF",
+         "version":"CON1",
+         "image":"https://www-asia.nissan-cdn.net/content/dam/Nissan/in/vehicles/EM2/Magnite%20Car%20Admin.jpg.ximg.l_4_m.smart.jpg"
+      }
+   }
+}
